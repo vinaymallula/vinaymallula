@@ -6,7 +6,7 @@ I recently completed a **Data Science and Machine Learning Bootcamp**, where I b
 I've worked extensively with:
 
 - 🤖 **Machine Learning** for developing predictive models, identifying patterns, and solving real-world problems using data-driven approaches  
-- 🐍 **Python** for data preprocessing, feature engineering, and visualization using libraries like Pandas, Matplotlib, and Seaborn  
+- 🐍 **Python** for data preprocessing, feature engineering, and visualization using libraries like Numpy, Pandas, Matplotlib, and Seaborn  
 - 🧠 **SQL** for querying, joining, and analyzing structured data to support model development and business insights  
 - 📊 **Power BI** for transforming insights into interactive dashboards and delivering compelling data stories  
 - 📈 **Excel** for exploratory analysis, pivot reports, and dashboard creation for business use cases  
