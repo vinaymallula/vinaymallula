@@ -1,7 +1,10 @@
 ## 🙋‍♂️ About Me
 
-Hello! I'm **Vinay**, a fresher and aspiring **Machine Learning Engineer** with a strong foundation in **data analysis**, **visualization**, and **machine learning**.  
-I recently completed a **Data Science and Machine Learning Bootcamp**, where I built several hands-on projects using real-world business scenarios.
+Hello! I'm **Vinay**, I'm an aspiring Machine Learning Engineer with hands-on experience in data analytics, machine learning, and Python programming. I’ve worked on real-world case studies involving hospitality analytics, business recommendations, and predictive modeling — even implementing ML algorithms manually to understand them deeply.
+
+I hold a B.Tech in Computer Science and a Data Science & Machine Learning certification from Scaler. Passionate about solving real-world problems using data and continuously leveling up with tools like SQL, Power BI, and Scikit-learn.
+
+Currently seeking opportunities to apply my skills in data-driven roles such as ML Engineer, Data Analyst, or AI Intern.
 
 I've worked extensively with:
 
